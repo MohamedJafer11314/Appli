@@ -5,7 +5,7 @@ export default function Home() {
     <div className="min-h-screen bg-gradient-to-br from-[#f8fafc] to-[#e0e7ef] dark:from-[#18181b] dark:to-[#23272f] flex flex-col items-center justify-center p-6 animate-fade-in">
       <header className="mb-12 text-center">
         <h1 className="text-4xl sm:text-5xl font-extrabold bg-gradient-to-r from-blue-600 via-fuchsia-500 to-emerald-400 bg-clip-text text-transparent drop-shadow-lg mb-2 animate-slide-in">
-          Study & Life Organizer
+          MohamedAI
         </h1>
         <p className="text-lg sm:text-xl text-gray-600 dark:text-gray-300 max-w-xl mx-auto animate-fade-in">
           أنجز مهامك اليومية، نظم جدولك الدراسي، واحتفظ بموادك الدراسية في مكان واحد أنيق وحصري.
@@ -54,7 +54,7 @@ export default function Home() {
         ⬅ العودة للخلف
       </button>
       <footer className="mt-16 text-gray-400 text-xs text-center select-none">
-        &copy; {new Date().getFullYear()} حصريًا | تنظيم المهام والدراسة
+        &copy; {new Date().getFullYear()} حصريًا | MohamedAI
       </footer>
       <style jsx global>{`
         @keyframes fade-in {
